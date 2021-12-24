@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fate
+- 👋 Hi, I’m Zero
 - 👀 I’m interested Javascript,Virtual Reality and Machine learning platforms
 - 🌱 I’m currently learning machine learning and DAPP tech
 - 💞️ I’m looking to contribute to open source tech and working in startups
