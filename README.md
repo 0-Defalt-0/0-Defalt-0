@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Zero
-- 👀 I’m interested Javascript,Virtual Reality and Machine learning platforms
-- 🌱 I’m currently learning machine learning and DAPP tech
-- 💞️ I’m looking to contribute to open source tech and working in startups
+- 👋 me Mechanist
+- 👀 Looking for Developers with Some experience in frontend Design Contact me on Discord
+- 🌱 Im a Data Scientist specalizing in business data monitoring and strategy also Im a full stack developer currently utilizing python to build smart and modular websites for businesses
+- 💞️ I’m looking forward to research and applications of artifical intelligence and defense technology
 - 📫 you can reach me on my discord i will link it later...........
 
 <!---
